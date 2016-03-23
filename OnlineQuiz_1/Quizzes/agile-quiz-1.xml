@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<quiz>
+  <title>Sample Quiz (3/6/2016)</title>
+    <questions>
+    
+      <question>
+        <quizquestion>Agile is </quizquestion>
+        <answer> Sequential </answer>
+        <answer> Iterative </answer>
+        <answer> Incremental </answer>
+        <answer> Both b and c </answer>
+        <correct>4</correct>
+      </question>
+      
+      <question>
+        <quizquestion> Who prioritizes product backlog? </quizquestion>
+        <answer>Sprint planning</answer>
+        <answer>Daily scrum meet</answer>
+        <answer>scrum master</answer>
+        <answer>count</answer>
+        <correct>3</correct>
+      </question>
+      		
+      <question>
+        <quizquestion>Histogram refers to?</quizquestion>
+        <answer>bar chart</answer>
+        <answer>run chart</answer>
+        <answer>pareto diagram</answer>
+        <answer>correalation daigram </answer>
+        <correct>1</correct>
+      </question>
+      		
+      <question>
+        <quizquestion>What is/are advantage/s of Agile testing?</quizquestion>
+        <answer>save time</answer>
+        <answer>requires less planning and creates less documentation</answer>
+        <answer>Regular feedback from end users</answer>
+        <answer>All the above</answer>
+        <correct>4</correct>
+      </question>	
+	  
+	  <question>
+        <quizquestion>Who will test the system in agile development?</quizquestion>
+        <answer>software tester</answer>
+        <answer>Devloper</answer>
+        <answer>Business Analyst</answer>
+        <answer>All the above</answer>
+        <correct>4</correct>
+      </question>
+
+     <question>
+        <quizquestion>When acceptance testing is performed in Agile development?</quizquestion>
+        <answer>On request of customer</answer>
+        <answer>After system is ready</answer>
+        <answer>Dail</answer>
+        <answer>At the end of each iteration</answer>
+        <correct>4</correct>
+      </question>
+
+      <question>
+        <quizquestion>Which skill are required by Agile tester?</quizquestion>
+        <answer>Domain knowledge</answer>
+        <answer>Keen to learn and adopt new technology</answer>
+        <answer>Effective communicator who maintains good relationship with development team</answer>
+        <answer>All the above</answer>
+        <correct>4</correct>
+      </question>	 
+
+     <question>
+        <quizquestion>Which of the following SQL clause can be used to group related rows</quizquestion>
+        <answer>having</answer>
+        <answer>group by</answer>
+        <answer>connect</answer>
+        <answer>together</answer>
+        <correct>1</correct>
+      </question>	
+
+     <question>
+        <quizquestion>Who is responsible for sprint meeting?</quizquestion>
+        <answer>Product owner</answer>
+        <answer>Scrum team</answer>
+        <answer>Scrum master</answer>
+        <answer>All the above</answer>
+        <correct>3</correct>
+      </question>	
+
+     <question>
+        <quizquestion>which of the following a Agile tool ?</quizquestion>
+        <answer>gira</answer>
+        <answer>JDK</answer>
+        <answer>sql</answer>
+        <answer>Hive</answer>
+        <correct>1</correct>
+      </question>	 	   
+	  
+      	
+    </questions>
+</quiz>

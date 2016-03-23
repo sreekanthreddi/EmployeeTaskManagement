@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<Loader delegate="true"/>
+<Resource
+        name="jdbc/etmsdb"
+        auth="Container"
+        type="javax.sql.DataSource"
+        maxActive="10"
+        maxIdle="4"
+        username="emsDbuser"
+        maxWait="1"
+        driverClassName="com.mysql.jdbc.Driver"
+        password="emsDbAdmin!"
+        url="jdbc:mysql://localhost/EMS_db"/>
+</Context>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<quiz>
+  <title>Sample Quiz (3/6/2016)</title>
+    <questions>
+    
+      <question>
+        <quizquestion>Which Java exception should be used to handle input/output errors?</quizquestion>
+        <answer> IOException </answer>
+        <answer> ArithmeticException </answer>
+        <answer> NoSuchMethodException </answer>
+        <answer> InputException </answer>
+        <correct>1</correct>
+      </question>
+      
+      <question>
+        <quizquestion> Which of the following a is not a keyword in Java ?</quizquestion>
+        <answer>class</answer>
+        <answer>interface</answer>
+        <answer>extends</answer>
+        <answer>abstraction</answer>
+        <correct>3</correct>
+      </question>
+      		
+      <question>
+        <quizquestion>What is true about Java ?</quizquestion>
+        <answer>Java is platform specific</answer>
+        <answer>Java does not support multiple inheritance</answer>
+        <answer>Java does not run on Linux and Mac</answer>
+        <answer>Java is not a multi-threaded language </answer>
+        <correct>1</correct>
+      </question>
+      		
+      <question>
+        <quizquestion>Which of the following is an interface ?</quizquestion>
+        <answer>Thread</answer>
+        <answer>Runnable</answer>
+        <answer>Date</answer>
+        <answer>Calendar</answer>
+        <correct>1</correct>
+      </question>	
+	  
+	  <question>
+        <quizquestion>Which of the following would you use to test a variable for five different values?</quizquestion>
+        <answer>If Statement</answer>
+        <answer>Else-If Statement</answer>
+        <answer>Switch Statement</answer>
+        <answer>Else Statement</answer>
+        <correct>3</correct>
+      </question>
+
+     <question>
+        <quizquestion>Which package needs to be imported so that you can accept user input?</quizquestion>
+        <answer>java.awt.event</answer>
+        <answer>java.io</answer>
+        <answer>java.util</answer>
+        <answer>java.awt</answer>
+        <correct>2</correct>
+      </question>
+
+      <question>
+        <quizquestion>Which is the default package that is automatically visible to your program ?</quizquestion>
+        <answer>java.net</answer>
+        <answer>javax.swing</answer>
+        <answer>java.io</answer>
+        <answer>java.lang</answer>
+        <correct>3</correct>
+      </question>	 
+
+     <question>
+        <quizquestion>Which entry in WEB-INF is used to map a servlet ?</quizquestion>
+        <answer>servlet-mapping</answer>
+        <answer>servlet-registration</answer>
+        <answer>servlet-entry</answer>
+        <answer>servlet-attachment</answer>
+        <correct>1</correct>
+      </question>	
+
+     <question>
+        <quizquestion>What is the length of Java datatype int ?</quizquestion>
+        <answer>32 bit</answer>
+        <answer>16 bit</answer>
+        <answer>64 bit</answer>
+        <answer>Runtime specific</answer>
+        <correct>1</correct>
+      </question>	
+
+     <question>
+        <quizquestion>What is the default value of Java datatype boolean?</quizquestion>
+        <answer>true</answer>
+        <answer>false</answer>
+        <answer>1</answer>
+        <answer>0</answer>
+        <correct>1</correct>
+      </question>	 	   
+	  
+      	
+    </questions>
+</quiz>
